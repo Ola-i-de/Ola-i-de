@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ola-i-de
-- 👀 I’m interested in Machine learning.
+- 👀 I’m interested in Machine learning and AI and UI/UX designing.
 - 🌱 I’m currently learning learning Javascript & relearning python..
 - 💞️ I’m looking to collaborate on anything fun & helpful, I guess.
 - 📫 How to reach me: olaidebod1234@gmail.com
